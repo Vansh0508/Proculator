@@ -1,0 +1,9 @@
+{
+    "version": "1.0",
+    "frontendEntry": "./index.tsx",
+    "externals": [
+        "react",
+        "react-dom",
+        "react-dom/server"
+    ]
+}
